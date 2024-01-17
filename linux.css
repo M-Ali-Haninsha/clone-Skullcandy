@@ -1,0 +1,122 @@
+*{
+
+    padding: 0%;
+    margin: 0%;
+}
+
+body{
+    font-family: HelveticaNeueLTPro-Roman;
+    margin: 0;
+   
+    
+}
+
+header{
+   
+   
+    background-color: #000;
+}
+
+
+
+
+.img{
+    width: 13rem;
+    
+}
+
+
+.icon{
+    width: 23px;
+    height: 23px;
+    margin-top: .5rem;
+    margin-left: 1rem;
+}
+
+
+
+.nav-link{
+    
+    font-weight: 500;
+    color: white;
+    
+    
+}
+
+section{
+    
+    width: 100%;
+}
+
+.row{
+    margin-left: 0px;
+}
+
+.contents{
+    width: 42%;
+    height: 29%;
+    top: 14vw;
+    left: 21%;
+    position: relative;
+}
+
+.content h3{
+    font-size: 2.8125vw;
+    letter-spacing: -.05em;
+    line-height: 2.4vw;
+    font-weight: bold;
+    color: #fff
+}
+.content p{
+    color: #fff;
+    line-height: 1;
+}
+
+.content2{
+    top: 4vw;
+    left: 31%;
+    height: 43%;
+    width: 45%;
+    position: relative;
+}
+
+.head2{
+    color: #fff;
+    margin: 0 0 0.3vw 0;   
+    letter-spacing: -.05em;
+    line-height: .85em;
+    font-size: 1.5rem;
+}
+.para{
+    color: #fff;
+}
+
+.content3{
+    top: 3vw;
+    padding-left: 3vw;
+    width: 92%;
+    position: relative;
+}
+
+.content3 h4{
+    color: #fff;
+}
+.content3 p{
+    color: #fff;
+}
+
+.main-img{
+    background-image: url(images/2e464760-2ef8-4848-bb1c-0b913dce6d2e_1_desktop_Dime.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.sub-img2{
+    background-image: url(/images/da5fd7c3-3671-4131-bd72-63cace3b74a5_2_pushactive-1.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.sub-img3{
+    background-image: url(/images/3735e5222-c59f-4efa-b3fc-bc6422d189a8_3_skulliq.jpg);
+    background-size: cover;
+    background-position: center;
+}

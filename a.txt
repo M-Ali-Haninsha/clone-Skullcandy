@@ -1,0 +1,32 @@
+ <div class="row" style="height: 100%; width: auto; margin-left: 0px;">
+    <div class="col-md-8   position-relative" style="padding: 0;">
+      <!--This is single main image-->
+        <img style="width: 100%; height: 100%; position: absolute;" src="images/2e464760-2ef8-4848-bb1c-0b913dce6d2e_1_desktop_Dime.jpg"> 
+        <div class="contents"> 
+          <h3>MINI AND MIGHTY.</h3>
+          <p>Meet our newest (and smallest) true wireless <br> earbuds: Dime™. With exceptional sound quality, <br> simple controls and a super-affordable price point, <br>
+            these little buds are poised to create some big <br> noise in the market.</p>
+            <button style=" line-height: 2vw; font-weight: 400; width: 16vh; letter-spacing: .07143rem;" type="button" class="theme_btn">SHOP DIME</button>
+        </div>  
+    </div>
+    <div class="col-md-4  " style="padding: 0; height: 90%;">
+      <!--this is for side image 1-->
+        <div  style="height: 50%; ">
+          <img style=" width: 100%; position: absolute;" src="images/da5fd7c3-3671-4131-bd72-63cace3b74a5_2_pushactive-1.jpg">
+          <div class="contents2 ">
+            <h4>AFFORDABLE OFFERS</h4>
+            <P>Use Coupon Code MRP65 <br> Get Flat 65% of on MRP <br>   SHOP NOW &gt; </P>
+          </div>
+        </div>
+        <!--This is for side image 2-->
+        <div  style="height: 50%; ">
+          <img src="images/3735e5222-c59f-4efa-b3fc-bc6422d189a8_3_skulliq.jpg" style=" width: 100%; position: absolute;">
+          <div class="contents3">
+            <h4>WELCOME TO FUTURE-PROOF AUDIO.</h4>
+            <p>Shop Now &gt;</p>
+          </div>
+        </div>
+
+      </div>
+   
+  </div>
